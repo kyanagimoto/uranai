@@ -28,7 +28,7 @@ var htmlHeader = '<!DOCUTYPE html>\
 </head>\
 <body>\
 <div class="content">\
-<h1>ノード占い</h1>';
+<h1>占い</h1>';
 
 var htmlMainForm = '<div class="main-form">\
 <form method="post" action="/">\
